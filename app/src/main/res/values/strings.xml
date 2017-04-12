@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CapoeiraGame</string>
+    <string name="welcome_message">Capoeira Game</string>
+    <string-array name="Questions">
+        <item>What is the basic Capoeira movement?</item>
+        <item>What is the "Rasteira"?</item>
+        <item>What is the "Martelo"?</item>
+        <item>What is the "Cabeçada"?</item>
+        <item>What is the "Armada"?</item>
+        <item>What is the "Rolê"?</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>Ginga</item>
+        <item>take down</item>
+        <item>kick</item>
+        <item>entrance kick</item>
+        <item>spinning kick</item>
+        <item>rolling around</item>
+    </string-array>
+    <string-array name="Hints">
+        <item>pronounced jinga</item>
+        <item>A basic capoeira move</item>
+        <item>A basic capoeira kick</item>
+        <item>Pretty straight</item>
+        <item>Watch out!</item>
+        <item>To move around</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+
+</resources>
